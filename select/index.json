@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Take Me Higher (2020 Version)",
+  "base_artist": "Dave Rodgers",
+  "createdAt": "2026-03-19T12:55:52.361820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/01_Take_Me_Higher_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "Metalium",
+      "has_synced": true,
+      "path": "select/02_Take_Me_Higher_Metalium.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "BRADIO",
+      "has_synced": true,
+      "path": "select/03_Take_Me_Higher_BRADIO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/04_Take_Me_Higher_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "インナ",
+      "has_synced": false,
+      "path": "select/05_Take_Me_Higher_インナ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "Prophets of Rage",
+      "has_synced": true,
+      "path": "select/06_Take_Me_Higher_Prophets_of_Rage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Take Me Higher",
+      "artist": "Rogerseventytwo",
+      "has_synced": false,
+      "path": "select/07_You_Take_Me_Higher_Rogerseventytwo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take me higher ! !",
+      "artist": "BAND-MAID",
+      "has_synced": false,
+      "path": "select/08_Take_me_higher_!_!_BAND-MAID.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "Robin Thicke",
+      "has_synced": true,
+      "path": "select/09_Take_Me_Higher_Robin_Thicke.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "Her Chariot Awaits",
+      "has_synced": true,
+      "path": "select/10_Take_Me_Higher_Her_Chariot_Awaits.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "INNA",
+      "has_synced": true,
+      "path": "select/11_Take_Me_Higher_INNA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Me Higher",
+      "artist": "DJ Bobo",
+      "has_synced": false,
+      "path": "select/12_Take_Me_Higher_DJ_Bobo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dancing Shoes (Take Me Higher)",
+      "artist": "LF System",
+      "has_synced": true,
+      "path": "select/13_Dancing_Shoes_(Take_Me_Higher)_LF_System.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Me Higher",
+      "artist": "dave rodgers",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Me_Higher_dave_rodgers.txt"
+    }
+  ]
+}
